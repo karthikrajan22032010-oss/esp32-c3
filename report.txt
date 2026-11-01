@@ -1,0 +1,442 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J1:Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV'.
+Info: Processing symbol 'D1:Diode_SMD:D_SOD-882D'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_SPST_B3U-1000P'.
+Info: Processing symbol 'SW2:Button_Switch_SMD:SW_SPST_B3U-1000P'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U3:RF_Module:ESP32-C3-WROOM-02'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm'.
+Changed REF** reference designator to C2.
+Changed C2 value from C_0805_2012Metric to 4U7.
+Updated C2 symbol association from  to /74623248-548b-4033-a443-00dfecf7fce4.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Add net +5V.
+Connected C2 pin 1 to +5V.
+Connected C2 pin 2 to GND.
+Updated C2 unit metadata.
+Added C3 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0805_2012Metric to 1uF.
+Updated C3 symbol association from  to /3055e723-5523-4745-86a7-e9d83d0ffced.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 1 to +5V.
+Connected C3 pin 2 to GND.
+Updated C3 unit metadata.
+Added C4 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0805_2012Metric to 1uF.
+Updated C4 symbol association from  to /01abec5a-85f0-4c37-806b-0d64c59620b7.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 2 to GND.
+Add net +3v3.
+Connected C4 pin 1 to +3v3.
+Updated C4 unit metadata.
+Added C5 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0805_2012Metric to 4U7.
+Updated C5 symbol association from  to /9fc324a0-1965-4d69-a289-0c8a7c23c312.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Connected C5 pin 2 to GND.
+Connected C5 pin 1 to +3v3.
+Updated C5 unit metadata.
+Added C6 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0402_1005Metric to 100n.
+Updated C6 symbol association from  to /ffc6e6cf-94a2-45b5-81b6-4c7b968e8fc9.
+Updated C6 fields.
+Updated C6 sheetname to '/'.
+Updated C6 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C6 footprint filters to 'C_*'.
+Connected C6 pin 2 to GND.
+Connected C6 pin 1 to +3v3.
+Updated C6 unit metadata.
+Added C7 (footprint 'Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0201_0603Metric_Pad0.64x0.40mm_HandSolder to TBD.
+Updated C7 symbol association from  to /22737a88-733e-4830-a6a5-d6bdad3a051d.
+Updated C7 fields.
+Updated C7 sheetname to '/'.
+Updated C7 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Add net Net-(U3-IO0).
+Connected C7 pin 1 to Net-(U3-IO0).
+Connected C7 pin 2 to GND.
+Updated C7 unit metadata.
+Added C8 (footprint 'Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0201_0603Metric_Pad0.64x0.40mm_HandSolder to TBD.
+Updated C8 symbol association from  to /94929499-a8c3-40eb-b88f-553941d5e4b7.
+Updated C8 fields.
+Updated C8 sheetname to '/'.
+Updated C8 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Add net Net-(U3-IO1).
+Connected C8 pin 1 to Net-(U3-IO1).
+Connected C8 pin 2 to GND.
+Updated C8 unit metadata.
+Added C9 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0402_1005Metric to 100n.
+Updated C9 symbol association from  to /77f87240-7f0e-4531-8848-852c92cf4415.
+Updated C9 fields.
+Updated C9 sheetname to '/'.
+Updated C9 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Add net EN.
+Connected C9 pin 1 to EN.
+Connected C9 pin 2 to GND.
+Updated C9 unit metadata.
+Added C10 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0402_1005Metric to 100n.
+Updated C10 symbol association from  to /75529d17-3b5f-49bb-9a3f-274f69d44f70.
+Updated C10 fields.
+Updated C10 sheetname to '/'.
+Updated C10 sheetfile to 'esp32 c3.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 2 to GND.
+Add net 109.
+Connected C10 pin 1 to 109.
+Updated C10 unit metadata.
+Added D1 (footprint 'Diode_SMD:D_SOD-882D').
+Changed REF** reference designator to D1.
+Changed D1 value from D_SOD-882D to PESD5V0L1ULD.
+Updated D1 symbol association from  to /11dde7d9-5371-4365-9a7d-0cff07accaf2.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'esp32 c3.kicad_sch'.
+Updated D1 footprint filters to 'D*SOD?882D*'.
+Connected D1 pin 2 to GND.
+Connected D1 pin 1 to VBUS.
+Updated D1 unit metadata.
+Added J1 (footprint 'Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV').
+Changed REF** reference designator to J1.
+Changed J1 value from USB_C_Receptacle_G-Switch_GT-USB-7010ASV to USB_C_Receptacle_USB2.0_16P.
+Updated J1 symbol association from  to /464560b2-8e07-4694-a487-5760c3ff1120.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'esp32 c3.kicad_sch'.
+Updated J1 footprint filters to 'USB*C*Receptacle*'.
+Connected J1 pin SH to GND.
+Add net /D+.
+Connected J1 pin A6 to /D+.
+Add net unconnected-(J1-SBU2-PadB8).
+Connected J1 pin B8 to unconnected-(J1-SBU2-PadB8).
+Connected J1 pin A4 to VBUS.
+Connected J1 pin B9 to VBUS.
+Connected J1 pin B4 to VBUS.
+Add net /D-.
+Connected J1 pin A7 to /D-.
+Connected J1 pin B6 to /D+.
+Add net Net-(J1-CC1).
+Connected J1 pin B5 to Net-(J1-CC1).
+Connected J1 pin B7 to /D-.
+Connected J1 pin B12 to GND.
+Connected J1 pin A5 to Net-(J1-CC1).
+Connected J1 pin SH to GND.
+Connected J1 pin A1 to GND.
+Connected J1 pin A9 to VBUS.
+Add net unconnected-(J1-SBU1-PadA8).
+Connected J1 pin A8 to unconnected-(J1-SBU1-PadA8).
+Connected J1 pin A12 to GND.
+Connected J1 pin SH to GND.
+Connected J1 pin B1 to GND.
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x08_P2.54mm_Vertical to Conn_01x08_Pin.
+Updated J2 symbol association from  to /fd5ea388-5669-4935-930f-9fedc86900b6.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'esp32 c3.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 8 to 109.
+Add net 105.
+Connected J2 pin 5 to 105.
+Connected J2 pin 2 to GND.
+Add net 107.
+Connected J2 pin 7 to 107.
+Add net 104.
+Connected J2 pin 4 to 104.
+Connected J2 pin 1 to +3v3.
+Connected J2 pin 3 to EN.
+Add net 106.
+Connected J2 pin 6 to 106.
+Updated J2 unit metadata.
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x08_P2.54mm_Vertical to Conn_01x08_Pin.
+Updated J3 symbol association from  to /6be80c6e-863b-4566-8eeb-b977068715e2.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'esp32 c3.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Add net TXD.
+Connected J3 pin 5 to TXD.
+Connected J3 pin 2 to GND.
+Connected J3 pin 7 to GND.
+Add net RXD.
+Connected J3 pin 6 to RXD.
+Connected J3 pin 1 to +5V.
+Add net 1010.
+Connected J3 pin 8 to 1010.
+Connected J3 pin 4 to GND.
+Add net 103.
+Connected J3 pin 3 to 103.
+Updated J3 unit metadata.
+Connected J1 pin SH to GND.
+Added R1 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0402_1005Metric to 5k1.
+Updated R1 symbol association from  to /7829eac7-3a35-40a9-8304-88cbb2e69379.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to Net-(J1-CC1).
+Connected R1 pin 2 to GND.
+Updated R1 unit metadata.
+Added C1 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R2 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0402_1005Metric to 5k1.
+Updated R2 symbol association from  to /02975d5c-5cb2-4daf-a6a5-9c46598d1e80.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 1 to Net-(J1-CC1).
+Connected R2 pin 2 to GND.
+Updated R2 unit metadata.
+Changed REF** reference designator to C1.
+Added R3 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0805_2012Metric to 0R.
+Updated R3 symbol association from  to /cad5a11e-02bf-4b5c-a341-1d51322810f2.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 2 to +5V.
+Connected R3 pin 1 to VBUS.
+Updated R3 unit metadata.
+Changed C1 value from C_0805_2012Metric to 4U7.
+Added R4 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0201_0603Metric to TBD.
+Updated R4 symbol association from  to /22f0234a-7f59-4867-bf61-67bd80d57354.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 2 to Net-(U3-IO1).
+Connected R4 pin 1 to Net-(U3-IO0).
+Updated R4 unit metadata.
+Updated C1 symbol association from  to /6deaf645-4002-4ab5-a544-670c48738919.
+Added R5 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0402_1005Metric to 10K.
+Updated R5 symbol association from  to /a97e0fff-1f98-429a-b5f7-6df1f9288503.
+Updated R5 fields.
+Updated R5 sheetname to '/'.
+Updated R5 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 1 to +3v3.
+Add net Net-(R5-Pad2).
+Connected R5 pin 2 to Net-(R5-Pad2).
+Updated R5 unit metadata.
+Updated C1 fields.
+Added R6 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0402_1005Metric to 100R.
+Updated R6 symbol association from  to /99b2577a-43b4-4a64-92d2-f011189dad76.
+Updated R6 fields.
+Updated R6 sheetname to '/'.
+Updated R6 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 1 to Net-(R5-Pad2).
+Connected R6 pin 2 to EN.
+Updated R6 unit metadata.
+Updated C1 sheetname to '/'.
+Added R7 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0402_1005Metric to 10K.
+Updated R7 symbol association from  to /5175661e-c387-48f6-985b-e102ba7c96bd.
+Updated R7 fields.
+Updated R7 sheetname to '/'.
+Updated R7 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Connected R7 pin 1 to +3v3.
+Connected R7 pin 2 to 109.
+Updated R7 unit metadata.
+Updated C1 sheetfile to 'esp32 c3.kicad_sch'.
+Added R8 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0402_1005Metric to 10K.
+Updated R8 symbol association from  to /b519d3d0-b084-4cce-9025-63c62b13832f.
+Updated R8 fields.
+Updated R8 sheetname to '/'.
+Updated R8 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Add net 102.
+Connected R8 pin 2 to 102.
+Connected R8 pin 1 to +3v3.
+Updated R8 unit metadata.
+Updated C1 footprint filters to 'C_*'.
+Added R9 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0402_1005Metric to 10K.
+Updated R9 symbol association from  to /bf90941c-8a21-4548-b60a-aeda738c91b2.
+Updated R9 fields.
+Updated R9 sheetname to '/'.
+Updated R9 sheetfile to 'esp32 c3.kicad_sch'.
+Updated R9 footprint filters to 'R_*'.
+Connected R9 pin 1 to +3v3.
+Add net 108.
+Connected R9 pin 2 to 108.
+Updated R9 unit metadata.
+Add net VBUS.
+Added SW1 (footprint 'Button_Switch_SMD:SW_SPST_B3U-1000P').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_SPST_B3U-1000P to SW_Push.
+Updated SW1 symbol association from  to /acfab230-4ad1-4263-a820-fce46e2b6d96.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'esp32 c3.kicad_sch'.
+Connected SW1 pin 2 to Net-(R5-Pad2).
+Connected SW1 pin 1 to GND.
+Updated SW1 unit metadata.
+Connected C1 pin 1 to VBUS.
+Added SW2 (footprint 'Button_Switch_SMD:SW_SPST_B3U-1000P').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_SPST_B3U-1000P to SW_Push.
+Updated SW2 symbol association from  to /7103fd05-23f2-4fab-8300-ea1d64f5063b.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'esp32 c3.kicad_sch'.
+Connected SW2 pin 2 to 109.
+Connected SW2 pin 1 to GND.
+Updated SW2 unit metadata.
+Add net GND.
+Added U1 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U1.
+Changed U1 value from SOT-23-6 to USBLC6-2SC6.
+Updated U1 symbol association from  to /fb4cf150-978c-41f3-a707-b5218d80ea7e.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'esp32 c3.kicad_sch'.
+Updated U1 footprint filters to 'SOT?23*'.
+Add net unconnected-(U1-VBUS-Pad5).
+Connected U1 pin 5 to unconnected-(U1-VBUS-Pad5).
+Add net USB_D+.
+Connected U1 pin 4 to USB_D+.
+Connected U1 pin 3 to /D+.
+Add net USB_D-.
+Connected U1 pin 6 to USB_D-.
+Connected U1 pin 2 to GND.
+Connected U1 pin 1 to /D-.
+Updated U1 unit metadata.
+Connected C1 pin 2 to GND.
+Added U2 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U2.
+Changed U2 value from SOT-23-5 to AP2112K-3.3.
+Updated U2 symbol association from  to /ca714bbe-0a43-4f8e-90da-3805076ff45f.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'esp32 c3.kicad_sch'.
+Updated U2 footprint filters to 'SOT?23?5*'.
+Connected U2 pin 5 to +3v3.
+Connected U2 pin 3 to +5V.
+Connected U2 pin 1 to +5V.
+Add net unconnected-(U2-NC-Pad4).
+Connected U2 pin 4 to unconnected-(U2-NC-Pad4).
+Connected U2 pin 2 to GND.
+Updated U2 unit metadata.
+Updated C1 unit metadata.
+Added U3 (footprint 'RF_Module:ESP32-C3-WROOM-02').
+Changed REF** reference designator to U3.
+Updated U3 symbol association from  to /52d5178f-119c-4def-8064-4ce044ae73b1.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'esp32 c3.kicad_sch'.
+Updated U3 footprint filters to 'ESP32?C3*WROOM?02*'.
+Connected U3 pin 10 to 1010.
+Connected U3 pin 1 to +3v3.
+Connected U3 pin 19 to GND.
+Connected U3 pin 3 to 104.
+Connected U3 pin 19 to GND.
+Connected U3 pin 19 to GND.
+Connected U3 pin 19 to GND.
+Connected U3 pin 5 to 106.
+Connected U3 pin 7 to 108.
+Connected U3 pin 19 to GND.
+Connected U3 pin 19 to GND.
+Connected U3 pin 6 to 107.
+Connected U3 pin 11 to RXD.
+Connected U3 pin 9 to GND.
+Connected U3 pin 19 to GND.
+Connected U3 pin 18 to Net-(U3-IO0).
+Connected U3 pin 19 to GND.
+Connected U3 pin 4 to 105.
+Connected U3 pin 12 to TXD.
+Connected U3 pin 19 to GND.
+Connected U3 pin 19 to GND.
+Connected U3 pin 8 to 109.
+Connected U3 pin 13 to USB_D-.
+Connected U3 pin 19 to GND.
+Connected U3 pin 15 to 103.
+Connected U3 pin 16 to 102.
+Connected U3 pin 14 to USB_D+.
+Connected U3 pin 17 to Net-(U3-IO1).
+Connected U3 pin 19 to GND.
+Connected U3 pin 2 to EN.
+Connected U3 pin 19 to GND.
+Updated U3 unit metadata.
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added Y1 (footprint 'Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm').
+Changed REF** reference designator to Y1.
+Changed Y1 value from Crystal_SMD_3215-2Pin_3.2x1.5mm to Crystal.
+Updated Y1 symbol association from  to /8ef5a7b1-c22a-4f78-8c71-19f768242e09.
+Updated Y1 fields.
+Updated Y1 sheetname to '/'.
+Updated Y1 sheetfile to 'esp32 c3.kicad_sch'.
+Updated Y1 footprint filters to 'Crystal*'.
+Connected Y1 pin 1 to Net-(U3-IO0).
+Connected Y1 pin 2 to Net-(U3-IO1).
+Updated Y1 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
